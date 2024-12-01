@@ -18,6 +18,7 @@
         <span class="line">请我喝一杯☕ <a href="https://sponsor.5202048.xyz/">Met Yu ✦</a> </span> 
 </footer>
 
-觉得不错，希望可以点个star
+## 如果觉得不错，希望可以点个star⭐
 
-#### [前往我的博客主页](
+[前往我的博客主页](https://blog.metyu.eu.org/)
+
